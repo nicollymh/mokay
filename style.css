@@ -3,12 +3,8 @@ padding: 0;}
 
 
 .logomarca{
-
-
-
     background-color: #DFDEDE;
 text-align: center;
-
 
 }
 
@@ -25,7 +21,8 @@ text-align: center;
 
 }
 
-h1{color: black;}
+h1{color: black;
+padding: 5px;}
 
 h1{font-size: 200%;}
 
