@@ -38,7 +38,15 @@ p{font-size: 150%;}
 
 h2{color: black;
 padding: 20px;}
+
+
 h2{font-size: 175%;}
 li{font-size: 150%;}
 
-img{font-size: 200%;}
+.imagem1{
+  width: 20;
+}
+
+.imagem2{
+  width: 20;
+}
